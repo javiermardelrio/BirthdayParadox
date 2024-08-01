@@ -56,12 +56,12 @@ s = 100000
 These are some examples of the output data obtained when considering the input parameters showed before:
 
 - Summary data excel (`<output_prefix>summary_data.xlsx`)
-![image](https://github.com/RTlabCBM/FidelityFinderSimulation/blob/main/docs/images/excel_file_sample.png?raw=true)
+![image](https://github.com/javiermardelrio/BirthdayParadox/blob/main/docs/images/sample_results_1k_simulations.png.png?raw=true)
 - Barcodes size families distribution (`<output_prefix>total_frequencies_distribution_graph.png`)
 
 
 ## Creative Commons
-![image](https://github.com/RTlabCBM/FidelityFinderSimulation/blob/main/docs/images/cc_logo.png?raw=true)
+![image](https://github.com/javiermardelrio/BirthdayParadox/blob/main/docs/images/cc_logo.png?raw=true)
 **Attribution-NonCommercial-ShareAlike 4.0 International**  
 **(CC BY-NC-SA 4.0)** 
 
