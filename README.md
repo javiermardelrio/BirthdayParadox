@@ -53,12 +53,9 @@ s = 100000
 ```
 
 ## Sample Output Results
-These are some examples of the output data obtained when considering the input parameters showed before:
+Here is an example of the output data generated using the above input parameters:
 
-- Summary data excel (`<output_prefix>summary_data.xlsx`)
-![image](https://github.com/javiermardelrio/BirthdayParadox/blob/main/docs/images/sample_results_1k_simulations.png.png?raw=true)
-- Barcodes size families distribution (`<output_prefix>total_frequencies_distribution_graph.png`)
-
+![image](https://github.com/javiermardelrio/BirthdayParadox/blob/main/docs/images/sample_results_1k_simulations.png?raw=true)
 
 ## Creative Commons
 ![image](https://github.com/javiermardelrio/BirthdayParadox/blob/main/docs/images/cc_logo.png?raw=true)
