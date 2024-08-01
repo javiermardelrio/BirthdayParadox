@@ -33,7 +33,7 @@ The calculations assume that each birthday is equally probable.
 Additionally, the script can be adapted for other applications by treating 𝑛 as the number of observations and 𝑑 as the number of possible combinations. For example, it can be used to analyze scenarios such as the number of barcodes observed and the number of possible barcode combinations (refer to [FidelityFinder](https://github.com/RTlabCBM/FidelityFinder) for more information on barcode applications in bioinformatics).
 
 ## Quick Start
-The program is available as a Jupyter Notebook. It can be opened and run with the following Google Colab link: [birthday_paradox](https://colab.research.google.com/github/javiermardelrio/BirthdayParadox/blob/main/JupyterNotebooks/birthday_paradox.ipynbn.ipynb)
+The program is available as a Jupyter Notebook. It can be opened and run with the following Google Colab link: [birthday_paradox](https://colab.research.google.com/github/javiermardelrio/BirthdayParadox/blob/main/JupyterNotebooks/birthday_paradox.ipynb)
 
 ## Input Parameters
 
