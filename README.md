@@ -49,7 +49,7 @@ d = 365
 ```
 - Number of simulations (s)
 ```console
-s = 100000
+s = 1000
 ```
 
 ## Sample Output Results
