@@ -14,9 +14,7 @@
 2. [Quick Start](#quick-start)
 3. [Input Parameters](#input-parameters)
 4. [Sample Output Results](#sample-output-results)
-5. [Creative Commons](#creative-commons)
-6. [Citation](#citation)
-7. [Developers](#developers)
+5. [Developers](#developers)
 
 
 ## Introduction
@@ -56,15 +54,6 @@ s = 1000
 Here is an example of the output data generated using the above input parameters:
 
 ![image](https://github.com/javiermardelrio/BirthdayParadox/blob/main/docs/images/sample_results_1k_simulations.png?raw=true)
-
-## Creative Commons
-![image](https://github.com/javiermardelrio/BirthdayParadox/blob/main/docs/images/cc_logo.png?raw=true)
-**Attribution-NonCommercial-ShareAlike 4.0 International**  
-**(CC BY-NC-SA 4.0)** 
-
-## Citation  
-We politely request that this work be cited as:  
-(Citation details are not yet available)
 
 ## Developers
 
