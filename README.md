@@ -24,9 +24,9 @@ Python script to compute various aspects of the birthday paradox using both anal
 
 Given a group of 𝑛 people and assuming a year has 𝑑 possible birthday days (typically 365 days for people born on Earth), the script calculates the following parameters:	
   - Probability of not shared birthdays in the group
-	- Probability of at least one shared birthday
-	- Expected number of people with unique birthdays
-	- Expected number of people with shared birthdays
+  - Probability of at least one shared birthday
+  - Expected number of people with unique birthdays
+  - Expected number of people with shared birthdays
 
 The calculations assume that each birthday is equally probable.
 
